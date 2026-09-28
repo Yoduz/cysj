@@ -1,12 +1,16 @@
 {
-  "version": "1.0.7",
-  "minVersion": "1.0.5",
+  "version": "1.2.4",
+  "minVersion": "1.1.0",
   "force": false,
   "title": "发现新版本",
   "notes": [
-    "修复已知问题",
-    "优化使用体验"
+    "首页日期卡片支持自定义日期",
+    "新增一句话语音记录日记",
+    "新增日期提醒",
+    "新增日期卡片主题",
+    "新增桌面小组件",
+    "支持邮箱登录"
   ],
-  "downloadUrl": "hhttps://github.com/Yoduz/cysj/releases/download/v1.0.7/CYSJ-v1.0.7.apk",
-  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.0.7"
+  "downloadUrl": "https://github.com/Yoduz/cysj/releases/download/V1.2.4/CYSJ-v1.2.4.apk",
+  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.2.4"
 }
