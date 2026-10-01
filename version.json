@@ -1,5 +1,5 @@
 {
-  "version": "1.2.4",
+  "version": "1.2.6",
   "minVersion": "1.1.0",
   "force": false,
   "title": "发现新版本",
@@ -11,6 +11,6 @@
     "新增桌面小组件",
     "支持邮箱登录"
   ],
-  "downloadUrl": "https://github.com/Yoduz/cysj/releases/download/V1.2.4/CYSJ-v1.2.4.apk",
-  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.2.4"
+  "downloadUrl": "https://github.com/Yoduz/cysj/releases/download/V1.2.6/CYSJ-v1.2.6.apk",
+  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.2.6"
 }
