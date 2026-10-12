@@ -1,5 +1,5 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.6",
   "minVersion": "1.1.0",
   "force": false,
   "title": "发现新版本",
@@ -10,6 +10,6 @@
     "新增桌面小组件",
     "支持邮箱登录-测试"
   ],
-  "downloadUrl": "https://styf.oss-cn-shenzhen.aliyuncs.com/uploads/images/renew/CYSJ-v1.2.6.apk1",
+  "downloadUrl": "https://styf.oss-cn-shenzhen.aliyuncs.com/uploads/images/renew/CYSJ-v1.2.6.apk",
   "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.2.6"
 }
