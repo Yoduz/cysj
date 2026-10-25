@@ -1,15 +1,12 @@
 {
-  "version": "1.2.6",
+  "version": "1.4.0",
   "minVersion": "1.1.0",
   "force": false,
   "title": "发现新版本",
   "notes": [
-    "首页日期卡片支持自定义日期",
-    "新增一句话语音记录日记",
-    "新增日期卡片主题",
-    "新增桌面小组件",
-    "支持邮箱登录-测试"
+    "新增APP内日期到期弹层提醒",
+    "新增推荐纪念日"
   ],
-  "downloadUrl": "https://styf.oss-cn-shenzhen.aliyuncs.com/uploads/images/renew/CYSJ-v1.2.6.apk",
-  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.2.6"
+  "downloadUrl": "https://github.com/Yoduz/cysj/releases/download/v1.4.0/CYSJ-v1.4.0.apk",
+  "releaseUrl": "https://github.com/Yoduz/cysj/releases/tag/v1.4.0"
 }
